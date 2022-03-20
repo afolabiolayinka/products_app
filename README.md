@@ -1,6 +1,11 @@
 # Products App
-## To run type:
+## To run:
 
 ```
 docker-compose up --build
+```
+
+## To test:
+```
+./bin/phpunit
 ```
